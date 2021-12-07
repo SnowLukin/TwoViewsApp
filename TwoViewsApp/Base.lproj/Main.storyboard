@@ -16,11 +16,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gff-4o-gs5">
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gff-4o-gs5" userLabel="RedView">
                                 <rect key="frame" x="20" y="64" width="388" height="394"/>
                                 <color key="backgroundColor" systemColor="systemRedColor"/>
                             </view>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cTQ-cd-GU6">
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cTQ-cd-GU6" userLabel="GreenView">
                                 <rect key="frame" x="20" y="478" width="388" height="394"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                             </view>
