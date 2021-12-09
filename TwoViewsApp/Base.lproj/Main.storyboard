@@ -30,7 +30,6 @@
                         <constraints>
                             <constraint firstItem="cTQ-cd-GU6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="DB6-W8-wig"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="cTQ-cd-GU6" secondAttribute="trailing" constant="20" id="Dg8-gX-drh"/>
-                            <constraint firstItem="cTQ-cd-GU6" firstAttribute="width" secondItem="gff-4o-gs5" secondAttribute="width" id="GcD-eY-gVv"/>
                             <constraint firstItem="cTQ-cd-GU6" firstAttribute="height" secondItem="gff-4o-gs5" secondAttribute="height" id="L5U-e2-soE"/>
                             <constraint firstItem="gff-4o-gs5" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="NKF-FG-lTe"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="cTQ-cd-GU6" secondAttribute="bottom" constant="20" id="hUB-Nw-YJn"/>
